@@ -1,3 +1,1 @@
 # MITUTOYO
-
-v2
